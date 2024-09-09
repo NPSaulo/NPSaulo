@@ -2,7 +2,7 @@
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">Meu nome é Saulo Niederle Pereira, sou um advogado apaixonado por tecnologia, que decidiu explorar o mundo da programação.</p>
-<p align="left">Gostaria trabalhar no encontro das duas áreas. Não fecho as portas, porém, para outros caminhos. 😊</p>
+<p align="left">Gostaria de trabalhar no encontro das duas áreas. Não fecho as portas, porém, para outros caminhos. 😊</p>
 
 <h3 align="left">Minhas atuais áreas de interesse:</h3>
 <p align="left">
